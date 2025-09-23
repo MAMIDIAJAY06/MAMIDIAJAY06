@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ajay@Mamidi</h1>
 <h3 align="center">A passionate frontend developer and Python developer from India</h3>
 
+- 🌱 I’m currently learning **DJANGO FRAMEWORKS AND DSA**
+
+- 💬 Ask me about **PYTHON,HTML,CSS,SQL,DJANGO**
+
 - 📫 How to reach me **ajaymamidi995@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1X7tSoM6Q2si8tQCpiKiP5s0iMHnLhI-d/view?usp=sharing](https://drive.google.com/file/d/1X7tSoM6Q2si8tQCpiKiP5s0iMHnLhI-d/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1CcmYX5UPvZsaer5RX-0ddbP1NYah7gTB/view?usp=sharing](https://drive.google.com/file/d/1CcmYX5UPvZsaer5RX-0ddbP1NYah7gTB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
